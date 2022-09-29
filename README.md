@@ -12,7 +12,7 @@ Using all the knowledge from this module, we need to create a retirement table t
 
  - Created retirement titles table to capture all employees born between January 1, 1952 and December 31, 1955
 
-  ![Retirement Titles](Analysis Projects Folder/Pewlett-Hackard-Analysis Folder/Data/retirement_titles 1.png?raw=true)
+  ![Retirement Titles](Resources/retirement_titles 1.png?raw=true)
 
  - Created Unique Titles table to capture first and last names, and the most recent title held by the employee
  - Created a retiring titles table with the employees that are retiring
